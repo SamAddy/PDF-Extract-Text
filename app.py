@@ -38,6 +38,7 @@ def open_file():
     # Open the PDF file using the PdfFileReader object
     file = askopenfile(parent=root, mode='rb', title='Choose a file', filetypes=[('PDF file', '*.pdf')])
     text = ""
+
     if file:
         read_pdf = PyPDF2.PdfReader(file)
         for i in range(len(read_pdf.pages)):
@@ -50,6 +51,10 @@ def open_file():
         text_box.grid(column=1, row=3)
 
         browse_text.set('Browse')
+
+
+def convert_to_docx(text):
+    pass
 
 
 root.mainloop()
