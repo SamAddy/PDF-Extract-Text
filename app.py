@@ -53,7 +53,7 @@ def open_file():
         browse_text.set('Browse')
 
 
-def convert_to_docx(text):
+def convert_to_docx():
     pass
 
 
