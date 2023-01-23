@@ -6,16 +6,20 @@ To run the project, you will need to have Python and pip installed on your syste
 
 ### Installation
 1. Clone or download the repository to your local machine.
+
 `git clone https://github.com/SamAddy/PDF-Extract-Text.git`
 
 2. Enter the working directory.
+
 `cd PDF-Extract-Text`
 
 3. Use pip to install the required libraries.
+
 `pip install -r requirements.txt`
 
 ### Usage
 1. Run the app using the following command:
+
 `python app.py`
 
 2. A GUI window will appear, with a button to selecgt the PDF file you want to extract text from. 
@@ -25,9 +29,10 @@ To run the project, you will need to have Python and pip installed on your syste
 4. You can also save the text to a file by clicking 'Save' button.
 
 <p float="left">
-<img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png" width="100" alt="Browse file"/>
-<img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png width="100" alt="Display extracted Text""
+<img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png" width=100% alt="Browse file"/>
+<img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png width=100% alt="Display extractedtext""
 </p>
+
 ### Note 
 Please keep in mind that not all pdfs are created equal, and some pdfs may have text in an image format or other format that may not be extractable with PyPDF2.
 
