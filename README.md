@@ -41,7 +41,10 @@ To run the project, you will need to have Python and pip installed on your syste
 <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png" width=50% alt="Display extractedtext">
 </p>
 
-
+<p align="center">
+![Browse file](https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png)
+![Diplay text in textbox](https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png)
+</p>
 ### Note 
 Please keep in mind that not all pdfs are created equal, and some pdfs may have text in an image format or other format that may not be extractable with PyPDF2.
 
