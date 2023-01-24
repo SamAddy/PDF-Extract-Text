@@ -36,25 +36,26 @@ To run the project, you will need to have Python and pip installed on your syste
 
 4. You can also save the text to a file by clicking 'Save' button.
 
+<!--
 <p align="center">
 <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png" width=50% alt="Browse file"/>
 <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png" width=50% alt="Display extractedtext">
 </p>
 
-<!--
+
 <p align="center">
 ![Browse file](https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png)
 ![Diplay text in textbox](https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png)
 </p>
 -->
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png" alt="image1" width="300"/>
+      <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage1.png" alt="image1" width="400"/>
     </td>
     <td>
-      <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png" alt="image2" width="300"/>
+      <img src="https://github.com/SamAddy/PDF-Extract-Text/blob/main/Stage2.png" alt="image2" width="400"/>
     </td>
   </tr>
 </table>
