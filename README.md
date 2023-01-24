@@ -7,9 +7,9 @@ To run the project, you will need to have Python and pip installed on your syste
 ### Installation
 1. Clone or download the repository to your local machine.
 
-  ```
-  git clone https://github.com/SamAddy/PDF-Extract-Text.git
-  ```
+   ```
+   git clone https://github.com/SamAddy/PDF-Extract-Text.git
+   ```
 
 2. Enter the working directory.
 
