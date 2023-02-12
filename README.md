@@ -1,5 +1,5 @@
 # PDF-Text-Extractor
-This GUI Application allows you to extract the texgt from the PDF files. The project is build using the PyPDF2 library for extracting text from PDFs, and the tkinter library for creating the GUI.
+This GUI Application allows you to extract the text from the PDF files. The project is build using the PyPDF2 library for extracting text from PDFs, and the tkinter library for creating the GUI.
 
 ## Getting Started
 To run the project, you will need to have Python and pip installed on your system.
